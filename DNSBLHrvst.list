@@ -347,7 +347,7 @@ local-zone: "betradar.com" refuse
 local-zone: "bet365.com" refuse
 local-zone: "tspprs.com" refuse
 local-zone: "parkingcrew.net" refuse
-local-zone: "2o7.net" refuse
+local-zone: "207.net" refuse
 local-zone: "skybet.com" refuse
 
 #NewlyRegisteredDomains
