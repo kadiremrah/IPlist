@@ -1,4 +1,21 @@
 server:
+local-zone: "redirectme.net" refuse
+local-zone: "myftp.org" refuse
+local-zone: "myvnc.com" refuse
+local-zone: "no-ip.biz" refuse
+local-zone: "no-ip.info" refuse
+local-zone: "no-ip.org" refuse
+local-zone: "workers.dev" refuse
+local-zone: "bounceme.net" refuse
+local-zone: "dyndns.biz" refuse
+local-zone: "dyndns.info" refuse
+local-zone: "dyndns.org" refuse
+local-zone: "serveblog.net" refuse
+local-zone: "serveftp.com" refuse
+local-zone: "servegame.com" refuse
+local-zone: "servehttp.com" refuse
+local-zone: "servepics.com" refuse
+local-zone: "serverbeer.com" refuse
 local-zone: "jtvnw.net" refuse
 local-zone: "mobileconfig.sascdn.com" refuse
 local-zone: "thumbnails2.opera.com" refuse
@@ -268,7 +285,6 @@ local-zone: "herokuapp.com" refuse
 local-zone: "gd" refuse
 local-zone: "app" refuse
 local-zone: "bid" refuse
-local-zone: "bounceme.net" refuse
 local-zone: "buzz" refuse
 local-zone: "cam" refuse
 local-zone: "casa" refuse
@@ -279,9 +295,6 @@ local-zone: "cn" refuse
 local-zone: "co.com" refuse
 local-zone: "co.za" refuse
 local-zone: "date" refuse
-local-zone: "dyndns.biz" refuse
-local-zone: "dyndns.info" refuse
-local-zone: "dyndns.org" refuse
 local-zone: "email" refuse
 local-zone: "eu" refuse
 local-zone: "fit" refuse
@@ -296,24 +309,11 @@ local-zone: "link" refuse
 local-zone: "me" refuse
 local-zone: "ml" refuse
 local-zone: "mobi" refuse
-local-zone: "myftp.biz" refuse
-local-zone: "myftp.org" refuse
-local-zone: "myvnc.com" refuse
-local-zone: "no-ip.biz" refuse
-local-zone: "no-ip.info" refuse
-local-zone: "no-ip.org" refuse
 local-zone: "online" refuse
 local-zone: "pw" refuse
 local-zone: "recipes" refuse
-local-zone: "redirectme.net" refuse
 local-zone: "rest" refuse
 local-zone: "rocks" refuse
-local-zone: "serveblog.net" refuse
-local-zone: "serveftp.com" refuse
-local-zone: "servegame.com" refuse
-local-zone: "servehttp.com" refuse
-local-zone: "servepics.com" refuse
-local-zone: "serverbeer.com" refuse
 local-zone: "shop" refuse
 local-zone: "site" refuse
 local-zone: "sn" refuse
@@ -331,9 +331,7 @@ local-zone: "vu" refuse
 local-zone: "website" refuse
 local-zone: "win" refuse
 local-zone: "work" refuse
-local-zone: "workers.dev" refuse
 local-zone: "xyz" refuse
-local-zone: "zapto.org" refuse
 local-zone: "es" refuse
 local-zone: "za" refuse
 local-zone: "id" refuse
@@ -364,7 +362,7 @@ local-zone: "betradar.com" refuse
 local-zone: "bet365.com" refuse
 local-zone: "tspprs.com" refuse
 local-zone: "parkingcrew.net" refuse
-local-zone: "2o7.net" refuse
+local-zone: "207.net" refuse
 local-zone: "skybet.com" refuse
 
 #NewlyRegisteredDomains
