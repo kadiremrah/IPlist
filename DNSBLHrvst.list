@@ -7,8 +7,6 @@ local-zone: "no-ip.info" refuse
 local-zone: "no-ip.org" refuse
 local-zone: "workers.dev" refuse
 local-zone: "bounceme.net" refuse
-local-zone: "dyndns.biz" refuse
-local-zone: "dyndns.info" refuse
 local-zone: "dyndns.org" refuse
 local-zone: "serveblog.net" refuse
 local-zone: "serveftp.com" refuse
@@ -47,8 +45,6 @@ local-zone: "nilbahis517.com" refuse
 local-zone: "360safe.com" refuse
 local-zone: "50union.com" refuse
 local-zone: "libtorrent.org" refuse
-local-zone: "videomate.mobi" refuse
-local-zone: "v-mate.mobi" refuse
 local-zone: "transmissionbt.com" refuse
 local-zone: "viadata.store" refuse
 local-zone: "rockstargames.com" refuse
@@ -71,7 +67,6 @@ local-zone: "bittorrent.com" refuse
 local-zone: "dns.apple.com" refuse
 local-zone: "apple-dns.net" refuse
 local-zone: "vidmate.net" refuse
-local-zone: "beyla.site" refuse
 local-zone: "rqmob.com" refuse
 local-zone: "cubecdn.net" refuse
 local-zone: "ww16.veryansın.tv" refuse
@@ -86,7 +81,6 @@ local-zone: "bildirt.com" refuse
 local-zone: "personaclick.com" refuse
 local-zone: "ttlivecdn.com" refuse
 local-zone: "pushails.com" refuse
-local-zone: "click-to-read.online" refuse
 local-zone: "4sq.com" refuse
 local-zone: "bnc.lt" refuse
 local-zone: "rfihub.com" refuse
@@ -104,14 +98,12 @@ local-zone: "akadns.net" refuse
 local-zone: "push.apple.com" refuse
 local-zone: "mesu.apple.com" refuse
 local-zone: "cookielaw.org" refuse
-local-zone: "hotstream.club" refuse
 local-zone: "cmsbetconstruct.com" refuse
 local-zone: "betcoswarm.com" refuse
 local-zone: "livelyhelp.chat" refuse
 local-zone: "bcapps.org" refuse
 local-zone: "celtabet305.com" refuse
 local-zone: "kxcdn.com" refuse
-local-zone: "ohabursa.xyz" refuse
 local-zone: "curacao-egaming.com" refuse
 local-zone: "tipobet0409.com" refuse
 local-zone: "t365gir.com" refuse
@@ -119,9 +111,7 @@ local-zone: "ads-interfaces.sc-cdn.net" refuse
 local-zone: "sift.com" refuse
 local-zone: "mackolikfeeds.com" refuse
 local-zone: "gscontxt.net" refuse
-local-zone: "ownpage.fr" refuse
 local-zone: "vuukle.com" refuse
-local-zone: "allstat-pp.ru" refuse
 local-zone: "collect.trendyol.com" refuse
 local-zone: "athena-event-provider.n11.com" refuse
 local-zone: "dygdigital.com" refuse
@@ -150,7 +140,6 @@ local-zone: "rlddirect.com" refuse
 local-zone: "6sc.co" refuse
 local-zone: "duckdns.org" refuse
 local-zone: "ddns.net" refuse
-local-zone: "xsph.ru" refuse
 local-zone: "synergize.co" refuse
 local-zone: "totalh.net" refuse
 local-zone: "talk4fun.net" refuse
@@ -245,7 +234,6 @@ local-zone: "pullcf.com" refuse
 #Special
 local-zone: "elmadomain" always_null
 
-
 #Stop DNS queries for apple
 local-zone: "mask.icloud.com" always_nxdomain
 local-zone: "mask-h2.icloud.com" always_nxdomain
@@ -279,8 +267,6 @@ local-zone: "isnssdk.com" refuse
 local-zone: "byteoversea.com" refuse
 local-zone: "herokuapp.com" refuse
 
-
-
 #TLD Blocking
 local-zone: "gd" refuse
 local-zone: "app" refuse
@@ -293,7 +279,6 @@ local-zone: "cf" refuse
 local-zone: "club" refuse
 local-zone: "cn" refuse
 local-zone: "co.com" refuse
-local-zone: "co.za" refuse
 local-zone: "date" refuse
 local-zone: "email" refuse
 local-zone: "eu" refuse
@@ -362,7 +347,7 @@ local-zone: "betradar.com" refuse
 local-zone: "bet365.com" refuse
 local-zone: "tspprs.com" refuse
 local-zone: "parkingcrew.net" refuse
-local-zone: "207.net" refuse
+local-zone: "2o7.net" refuse
 local-zone: "skybet.com" refuse
 
 #NewlyRegisteredDomains
