@@ -2,8 +2,6 @@ server:
 local-zone: "redirectme.net" refuse
 local-zone: "myftp.org" refuse
 local-zone: "myvnc.com" refuse
-local-zone: "no-ip.biz" refuse
-local-zone: "no-ip.info" refuse
 local-zone: "no-ip.org" refuse
 local-zone: "workers.dev" refuse
 local-zone: "bounceme.net" refuse
