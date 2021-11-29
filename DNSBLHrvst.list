@@ -613,7 +613,6 @@ local-zone: "best" refuse
 local-zone: "bg" refuse
 local-zone: "ch" refuse
 local-zone: "cloud" refuse
-local-zone: "co" inform_deny
 
 #BetSites
 local-zone: "bet.plus" refuse
