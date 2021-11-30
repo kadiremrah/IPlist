@@ -1,0 +1,8 @@
+# /usr/local/opnsense/scripts/unbound/blocklists.py
+# Change line 150 as
+unbound_outf.write("local-zone: \"%s\" refuse\n" % entry)
+
+# /usr/local/etc/inc/plugins.inc.d/unbound.inc
+# add lines under # Custom includes
+include: /var/unbound/host_ytb.conf
+include: /var/unbound/host_hrvst.conf
