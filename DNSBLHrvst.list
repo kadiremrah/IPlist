@@ -610,6 +610,7 @@ local-zone: "mozgcp.net" refuse
 local-zone: "mozilla.com" refuse
 local-zone: "mozilla.net" refuse
 local-zone: "mozaws.net" refuse
+local-zone: "firefox.com" refuse
 
 #Special
 local-zone: "elmadomain" always_null
