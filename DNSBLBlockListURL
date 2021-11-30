@@ -1,0 +1,15 @@
+https://threatfox.abuse.ch/downloads/hostfile
+https://adaway.org/hosts.txt
+https://justdomains.github.io/blocklists/lists/adguarddns-justdomains.txt
+https://blocklistproject.github.io/Lists/alt-version/crypto-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/gambling-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/scam-nl.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+http://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&mimetype=plaintext
+https://block.energized.pro/extensions/xtreme/formats/domains.txt
+https://block.energized.pro/blu/formats/hosts
+https://someonewhocares.org/hosts/zero/hosts
+https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains.txt
+https://raw.githubusercontent.com/blocklistproject/Lists/master/torrent.txt
+https://raw.githubusercontent.com/blocklistproject/Lists/master/phishing.txt
+https://raw.githubusercontent.com/blocklistproject/Lists/master/redirect.txt
