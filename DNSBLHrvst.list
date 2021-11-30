@@ -599,6 +599,17 @@ local-zone: "3322.net" refuse
 local-zone: "302br.net" refuse
 local-zone: "3-a.net" refuse
 local-zone: "0fees.net" refuse
+local-zone: "poltio.com" refuse
+local-zone: "datadoghq-browser-agent.com" refuse
+
+#Mozilla
+local-zone: "mozit.cloud" refuse
+local-zone: "mozilla.org" refuse
+local-zone: "mozit.cloud" refuse
+local-zone: "mozgcp.net" refuse
+local-zone: "mozilla.com" refuse
+local-zone: "mozilla.net" refuse
+local-zone: "mozaws.net" refuse
 
 #Special
 local-zone: "elmadomain" always_null
