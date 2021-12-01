@@ -601,6 +601,7 @@ local-zone: "3-a.net" refuse
 local-zone: "0fees.net" refuse
 local-zone: "poltio.com" refuse
 local-zone: "datadoghq-browser-agent.com" refuse
+local-zone: "socket.donanimhaber.com" refuse
 
 #Mozilla
 local-zone: "mozit.cloud" refuse
@@ -765,6 +766,8 @@ local-zone: "life" refuse
 local-zone: "live" refuse
 local-zone: "mn" refuse
 local-zone: "mx" refuse
+local-zone: "re" refuse
+local-zone: "dns" refuse
 
 #BetSites
 local-zone: "bet.plus" refuse
