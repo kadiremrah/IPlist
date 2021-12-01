@@ -602,6 +602,8 @@ local-zone: "0fees.net" refuse
 local-zone: "poltio.com" refuse
 local-zone: "datadoghq-browser-agent.com" refuse
 local-zone: "socket.donanimhaber.com" refuse
+local-zone: "api.surfeasy.com" refuse
+local-zone: "de0.opera-proxy.net" refuse
 
 #Mozilla
 local-zone: "mozit.cloud" refuse
