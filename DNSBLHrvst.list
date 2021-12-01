@@ -786,3 +786,5 @@ local-zone: "public-dns.info" transparent
 local-zone: "grc.com" transparent
 local-zone: "energized.pro" transparent
 local-zone: "t.co" transparent
+local-zone: "mega.co.nz" transparent
+local-zone: "mega.nz" transparent
