@@ -307,7 +307,7 @@ local-zone: "hangoutathome.com" refuse
 local-zone: "googleadservices.com" refuse
 local-zone: "godaddysites.com" refuse
 local-zone: "getclicky.com" refuse
-local-zone: "getambassador\.com" refuse
+local-zone: "getambassador.com" refuse
 local-zone: "frascuft.com" refuse
 local-zone: "forter.com" refuse
 local-zone: "footprintdns.com" refuse
