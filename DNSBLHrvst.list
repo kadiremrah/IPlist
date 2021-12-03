@@ -770,6 +770,8 @@ local-zone: "mn" refuse
 local-zone: "mx" refuse
 local-zone: "re" refuse
 local-zone: "dns" refuse
+local-zone: "io" refuse
+local-zone: "co" refuse
 
 #BetSites
 local-zone: "bet.plus" refuse
