@@ -606,14 +606,14 @@ local-zone: "api.surfeasy.com" refuse
 local-zone: "de0.opera-proxy.net" refuse
 
 #Mozilla
-local-zone: "mozit.cloud" refuse
-local-zone: "mozilla.org" refuse
-local-zone: "mozit.cloud" refuse
-local-zone: "mozgcp.net" refuse
-local-zone: "mozilla.com" refuse
-local-zone: "mozilla.net" refuse
-local-zone: "mozaws.net" refuse
-local-zone: "firefox.com" refuse
+local-zone: "mozit.cloud" always_nxdomain
+local-zone: "mozilla.org" always_nxdomain
+local-zone: "mozit.cloud" always_nxdomain
+local-zone: "mozgcp.net" always_nxdomain
+local-zone: "mozilla.com" always_nxdomain
+local-zone: "mozilla.net" always_nxdomain
+local-zone: "mozaws.net" always_nxdomain
+local-zone: "firefox.com" always_nxdomain
 
 #Special
 local-zone: "elmadomain" always_null
@@ -793,5 +793,8 @@ local-zone: "public-dns.info" transparent
 local-zone: "grc.com" transparent
 local-zone: "energized.pro" transparent
 local-zone: "t.co" transparent
+local-zone: "nextdns.io" transparent
+local-zone: "github.io" transparent
 local-zone: "mega.co.nz" transparent
 local-zone: "mega.nz" transparent
+local-zone: "kuketz-blog.de" transparent
