@@ -604,6 +604,7 @@ local-zone: "datadoghq-browser-agent.com" refuse
 local-zone: "socket.donanimhaber.com" refuse
 local-zone: "api.surfeasy.com" refuse
 local-zone: "de0.opera-proxy.net" refuse
+local-zone: "hicloud.com" refuse
 
 #Mozilla
 local-zone: "mozit.cloud" always_nxdomain
@@ -799,3 +800,5 @@ local-zone: "mega.co.nz" transparent
 local-zone: "mega.nz" transparent
 local-zone: "kuketz-blog.de" transparent
 local-zone: "zenz-solutions.de" transparent
+local-zone: "githubapp.com" transparent
+local-zone: "github-production-upload-manifest-file-7fdce7.s3.amazonaws.com" transparent
