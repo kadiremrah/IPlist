@@ -613,6 +613,14 @@ local-zone: "visualstudio.com" refuse
 local-zone: "iocnt.net" refuse
 local-zone: "dbankcloud.com" refuse
 local-zone: "vk.com" refuse
+local-zone: "yenimedya.com.tr" refuse
+local-zone: "ekstat.com" refuse
+local-zone: "pozitron.com" refuse
+local-zone: "thdstatic.com" refuse
+local-zone: "ubuy.com.tr" refuse
+local-zone: "ubuy.com.kw" refuse
+local-zone: "ubuy.com" refuse
+local-zone: "yenimedya.com.tr" refuse
 
 #Mozilla
 local-zone: "mozit.cloud" always_nxdomain
