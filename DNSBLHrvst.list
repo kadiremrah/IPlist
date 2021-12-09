@@ -657,7 +657,6 @@ local-zone: "goggle.com" refuse
 local-zone: "gogvo.com" refuse
 local-zone: "gohip.com" refuse
 local-zone: "goitcl.com" refuse
-local-zone: "google.com" refuse
 local-zone: "googleadservices.com" refuse
 local-zone: "googlesyndication.com" refuse
 local-zone: "goonwithmazerqq.com" refuse
