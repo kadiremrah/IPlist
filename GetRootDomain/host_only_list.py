@@ -1,4 +1,7 @@
+# sample.txt must have every url  at eachline, every line must have at least http:// at the beginning (so if not add manually)
 # after changing "sample.txt" as your "filename" on linux terminal command :  python3 host_only_list.py > output.txt
+# if tld not installed use terminal commad : pip install https://github.com/barseghyanartur/tld/archive/stable.tar.gz
+# run command on terminal to update tld database : update-tld-names
 from tld import get_fld
  
 urls_file = "./sample.txt"
