@@ -1,3 +1,4 @@
+# after changing "sample.txt" as your "filename" on linux terminal command :  python3 host_only_list.py > output.txt
 from tld import get_fld
  
 urls_file = "./sample.txt"
