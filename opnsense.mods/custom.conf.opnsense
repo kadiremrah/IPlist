@@ -1,3 +1,4 @@
+# IF YOU USED REGEX FOR WHITELIST YOU MUST ADD THIS CONF TO BLOCK CLEANED URL'S ROOT.DOMAINS
 server:
 local-zone: "000free.us" refuse
 local-zone: "000space.com" refuse
